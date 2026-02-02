@@ -1,4 +1,6 @@
 # check.sh 
+```
+
 #!/bin/bash
 
 #this code checks OUTCARs in the subdirectories and give the list of values depending on the subdirectory's name as an output.
@@ -19,3 +21,4 @@ for d in "$base"/*/; do
         printf "%-5s %s\n" "$nO" "NO_OUTCAR"
     fi
 done
+```
