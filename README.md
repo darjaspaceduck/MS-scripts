@@ -1,7 +1,7 @@
 # check.sh 
 #!/bin/bash
 
-# this code checks OUTCARs in the subdirectories and give the list of values depending on the subdirectory's name as an output.
+#this code checks OUTCARs in the subdirectories and give the list of values depending on the subdirectory's name as an output.
 
 base="100_hollow" # target directory 
 
